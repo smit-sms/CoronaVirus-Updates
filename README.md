@@ -46,7 +46,7 @@ Tabular Output Also printed on terminal:
 
 
 
-Graph PLotted:
+Graph Plotted:
 
 
 ![Graphical output](./Screenshots/Graph.png)
