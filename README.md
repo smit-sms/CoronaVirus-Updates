@@ -39,4 +39,14 @@ $ python CoronaVirus.py
 
 ## Screenshots of Output
 
-![Alt text](./Screenshots/Graph.png)
+Tabular Output Also printed on terminal:
+
+
+![Table format Output](./Screenshots/terminal-data.png)
+
+
+
+Graph PLotted:
+
+
+![Graphical output](./Screenshots/Graph.png)
