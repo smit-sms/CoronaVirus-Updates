@@ -33,5 +33,10 @@ $ pip install numpy
 ## Running the script
 
 ```
-python CoronaVirus.py
+$ python CoronaVirus.py
 ```
+
+
+## Screenshots of Output
+
+![Alt text](./Screenshots/Graph.png)
